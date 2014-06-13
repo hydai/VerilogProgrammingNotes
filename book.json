@@ -1,0 +1,13 @@
+{
+    "name": "VerilogProgrammingNotes",
+    "version": "0.0.1",
+    "description": "Verilog 踩雷部隊。這是一本整理個人求學經驗而寫成的 Verilog 教學手冊。主要的內容與經驗是來自大二修的硬體實驗與數位系統設計兩門課，主要寫作的時間為 2014 年的暑假，未來將不定時更新。",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hydai/VerilogProgrammingNotes.git"
+    },
+    "author": "hydai <z54981220@gmail.com>",
+    "dependencies": {
+        "gitbook-plugin-autocover": "0.0.5"
+    }
+}

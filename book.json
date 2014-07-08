@@ -7,6 +7,9 @@
         "url": "https://github.com/hydai/VerilogProgrammingNotes.git"
     },
     "author": "hydai <z54981220@gmail.com>",
+    "dependencies": {
+            "gitbook-plugin-autocover": "0.0.5"
+    },
     "plugins": ["autocover"],
     "pluginsConfig": {
         "autocover": {

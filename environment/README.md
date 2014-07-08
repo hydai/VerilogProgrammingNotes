@@ -50,8 +50,29 @@ iverilog -o datapath datapath.v datapath_t.v
 vvp datapath
 ```
 
-###特別附上 Windows 執行測試圖
+##測試是否安裝完成
+###Verilog code
+把這裡的程式碼塞到 `hello.v` 裏頭
+```Verilog
+module HelloVerilog;
+
+initial begin
+    $display("Hello, iverilog");
+    #40 $finish;
+end
+
+endmodule // End of HelloVerilog
+```
+**編譯＆執行**
+```bash
+iverilog -o hello hello.v
+vvp hello
+```
+###結果
+####Windows
 ![env001.png](env001.png)
+####Mac / Ubuntu
+![env002.png](env002.png)
 
 ---
 現在我們有了 verilog 的編譯器與模擬的環境，接下來就能開工囉！

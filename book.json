@@ -6,27 +6,5 @@
         "type": "git",
         "url": "https://github.com/hydai/VerilogProgrammingNotes.git"
     },
-    "author": "hydai <z54981220@gmail.com>",
-    "dependencies": {
-            "gitbook-plugin-autocover": "0.0.5"
-    },
-    "plugins": ["autocover"],
-    "pluginsConfig": {
-        "autocover": {
-            "title": "Verilog Programming Notes",
-            "author": "hydai",
-            "font": {
-                "size": null,
-                "family": "Impact",
-                "color": "#FFF"
-            },
-            "size": {
-                "w": 1800,
-                "h": 2360
-            },
-            "background": {
-                "color": "#09F"
-            }
-        }
-    }
+    "author": "hydai <z54981220@gmail.com>"
 }

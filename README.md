@@ -1,4 +1,4 @@
-# VerilogProgrammingNote
+# VerilogProgrammingNotes
 
 ## 關於本書
 這是一本整理個人求學經驗而寫成的`Verilog`的學習手札。
@@ -15,13 +15,11 @@
 以下是我的資訊，有任何疑問，歡迎聯繫：
 
 - [E-mail](mailto:z54981220@gmail.com)
-
 - [Github](https://github.com/hydai/)
-
 - [Facebook](https://www.facebook.com/hungyingdai)
 
 ## 參與
-本手札利用 [gitbook](http://www.gitbook.io) 發佈，以 [github repo](https://github.com/hydai/VerilogProgrammingNote/) 管理。歡迎大家開 `issue` 來討論，也可以透過 `pull requests` 來增加新的內容。
+本手札利用 [gitbook](http://www.gitbook.io) 發佈，以 [github repo](https://github.com/hydai/VerilogProgrammingNotes/) 管理。歡迎大家開 `issue` 來討論，也可以透過 `pull requests` 來增加新的內容。
 
 以下是介紹`git`的相關資源：
 

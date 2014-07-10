@@ -14,17 +14,17 @@
 
 以下是我的資訊，有任何疑問，歡迎聯繫：
 
-![E-mail](mailto:z54981220@gmail.com)
+- [E-mail](mailto:z54981220@gmail.com)
 
-![Github](https://github.com/hydai/)
+- [Github](https://github.com/hydai/)
 
-![Facebook](https://www.facebook.com/hungyingdai)
+- [Facebook](https://www.facebook.com/hungyingdai)
 
 ## 參與
-本手札利用 ![gitbook](http://www.gitbook.io) 發佈，以 ![github repo](https://github.com/hydai/VerilogProgrammingNote/) 管理。歡迎大家開 `issue` 來討論，也可以透過 `pull requests` 來增加新的內容。
+本手札利用 [gitbook](http://www.gitbook.io) 發佈，以 [github repo](https://github.com/hydai/VerilogProgrammingNote/) 管理。歡迎大家開 `issue` 來討論，也可以透過 `pull requests` 來增加新的內容。
 
 以下是介紹`git`的相關資源：
 
-- ![git 介紹](http://ncu-csie-snmg.github.io/2013-NCU-CSIE-Website-Design-Competition/git.html)
-- ![github fork 教學](http://ncu-csie-snmg.github.io/2013-NCU-CSIE-Website-Design-Competition/fork.html)
-- ![github pull requests 教學](http://ncu-csie-snmg.github.io/2013-NCU-CSIE-Website-Design-Competition/pullrequest.html)
+- [git 介紹](http://ncu-csie-snmg.github.io/2013-NCU-CSIE-Website-Design-Competition/git.html)
+- [github fork 教學](http://ncu-csie-snmg.github.io/2013-NCU-CSIE-Website-Design-Competition/fork.html)
+- [github pull requests 教學](http://ncu-csie-snmg.github.io/2013-NCU-CSIE-Website-Design-Competition/pullrequest.html)
